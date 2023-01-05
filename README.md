@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @modestasgrz
-- 👀 I’m interested in full stack development, UX design
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine and Deep Learning
 - 📫 How to reach me - modestas.grazys.grz@gmail.com, facebook: Modestas Gražys, instagram: @modestasgrz
 
 <!---
